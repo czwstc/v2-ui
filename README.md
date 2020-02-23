@@ -1,6 +1,8 @@
 # Another v2-ui stolen by Zwei
 A V2Ray Panel Support multi-protocol multi-user 
 
+>LMC-Link Project Stage 2
+
 The original panel supports Chinese and English, but this panel won't support chinese. 
 
 >Chinese people don't need Great Firewall. Even if there is no The great firewall, they will also build one. Even if there is no censor, they will also self-castration.
