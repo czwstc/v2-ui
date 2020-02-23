@@ -1,10 +1,7 @@
-# v2-ui
+# Another v2-ui stolen by Zwei
 A V2Ray Panel Support multi-protocol multi-user 
 
-# Help translate
-The panel currently supports Chinese and English. If you find the wrong translation to help you fix, or want to help translate into more languages, you can find translations for each language in the translations folder, such as [translations/zh/LC_MESSAGES/message.po](translations/zh/LC_MESSAGES/messages.po) files It is Chinese translation content. Where msgid is the original English text, msgstr is the translated content, and each msgid corresponds to a msgstr.
-
-Of course, the document currently only supports Chinese and English. If you want to help with translation, create a file README.lang.md, where lang is the English abbreviation for the language, for example, en for English.
+The original panel supports Chinese and English, but this panel won't support chinese. Sometimes, it will be dangerous to
 
 # Screenshot
 ![1_en.png](1_en.png)
@@ -93,7 +90,3 @@ You can modify the [Account Effective Time] in the panel settings, **It is not a
 ## Vmess cannot be connected due to time error
 Refer to v2ray official sentence:
 >VMess depends on system time. Please ensure that your system time is in sync with UTC time. Timezone doesn't matter. One may install ntp service on Linux to automatically adjust system time.
-
-# Telegram
-群组：https://t.me/sprov_blog
-频道：https://t.me/sprov_channel
